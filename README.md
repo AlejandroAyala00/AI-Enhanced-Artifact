@@ -44,5 +44,5 @@ Within three months, it reduces waste output by **15%** through data-informed de
 This site is configured for automatic GitHub Pages deployment through `.github/workflows/deploy.yml`.
 
 ---
-## 📸 Preview
+## Preview
 ![Dashboard Preview](assets/screenshots/dashboard-preview.png)
